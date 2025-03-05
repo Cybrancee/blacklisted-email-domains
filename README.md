@@ -1,3 +1,5 @@
+## This Readme was written in AI - the repo is pretty self explainatory :)
+
 # 🚀 Disposable & Dangerous Email Domains List
 
 This repository contains a curated list of temporary, disposable, and potentially dangerous email domains. The goal is to help developers, businesses, and security professionals filter out risky email addresses from their platforms.
